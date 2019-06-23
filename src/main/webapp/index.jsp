@@ -5,6 +5,7 @@
     <link rel="stylesheet" type="text/css" href="App/Themes/Lumen/css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="App/Modules/Core/Css/core.css">
     <link rel="stylesheet" type="text/css" href="Content/login.css">
+    <!-- -->
 </head>
 <body>
     <div class="container-fluid full-width-container">
